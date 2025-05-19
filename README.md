@@ -1,2 +1,2 @@
-# Shazam-like-app
- Shazam used the Fast Fourier Transform (FFT) method to accurately identify songs It worked by analyzing short audio clips and comparing them against a database of “fingerprints” derived from the spectrograms of known songs. Each fingerprint was a unique pattern of peaks in the frequency spectrum
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/VRxsap7t)
+# lab_shazam
